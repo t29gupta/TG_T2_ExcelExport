@@ -1,4 +1,4 @@
-# TG_Assignment_T2
+# TG_T2_ExcelExport
 - Export Excel from jsonFile provided
 - It is a console application
 - The projects are in .Net5.
